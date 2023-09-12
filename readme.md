@@ -8,7 +8,7 @@ used to produce the art for my album [crunchpop](https://open.spotify.com/album/
 
 
 ## dependencies
-- [spng](github.com/sjdobesh/spng)
+- [spng](https://github.com/sjdobesh/spng)
 ## long term additions
 - [x] orthogonal sort
 - [ ] any angel sort
